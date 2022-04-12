@@ -1,0 +1,4 @@
+model="macbook pro"
+price= 1000
+year= 2009 
+print("модель",model,"\n","цена",price,"\n","год",year)

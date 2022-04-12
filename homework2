@@ -1,0 +1,4 @@
+dream_job ="developer"
+salery = 100000
+working_days = 200
+print('работа_мечты',dream_job,'\n','зарплата',salery,'\n','рабочие_дни',working_days,) 
